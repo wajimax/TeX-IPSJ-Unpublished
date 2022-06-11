@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+
+\bibitem{dentsu_shinwa}
+信田和宏.
+「電通」成長神話の秘密.
+一般社団法人 経済産業調査会.
+
+\bibitem{article_okumura}
+奥村学.
+ソーシャルメディアを対象としたテキストマイニング.
+電子情報通信学会 基礎・境界ソサイエティ Fundamentals Review, Vol.~6,
+  No.~4, pp. 285--293, 2013.
+
+\bibitem{article_yokoyama}
+横山友也, 宝珍輝尚, 野宮浩揮, 佐藤哲司.
+文章の特徴量を用いた質問回答文の印象の因子得点の推定.
+日本感性工学会論文誌, Vol.~12, No.~1, pp. 15--24, 2013.
+
+\bibitem{article_kure}
+呉鍾勲, 鳥澤健太郎, 橋本力, 川田拓也, デサーガステイン, 風間淳一, 王軼謳.
+意味的極性と単語クラスを用いたwhy型質問応答の改善.
+情報処理学会論文誌, Vol.~54, No.~7, pp. 1951--1966, jul 2013.
+
+\bibitem{people_touched}
+林正樹.
+人々が感動するものは何か.
+映像情報メディア学会誌, Vol.~62, No.~7, pp. 1017--1021, 2008.
+
+\bibitem{interactive_content}
+林正樹.
+放送 - 通信分野におけるインタラクティブコンテンツデザイン.
+映像情報メディア学会誌, Vol.~68, No.~2, pp. 116--120, 2014.
+
+\bibitem{t2v_paper}
+Masaki Hayashi, Seiki Inoue, Mamoru Douke, Narichika Hamaguchi, Hiroyuki
+  Kaneko, Steven Bachelder, and Masayuki Nakajima.
+[paper] t2v: New technology of converting text to cg animation.
+{\em ITE Transactions on Media Technology and Applications}, Vol.~2,
+  No.~1, pp. 74--81, 2014.
+
+\bibitem{vocaloid_niconico}
+優末吉, 洋平関.
+音楽のジャンルと印象を用いた vocaloid クリエータの検索.
+人工知能学会誌, Vol.~32, No.~1, 2017.
+
+\bibitem{evaluation_niconico}
+知伸尾崎.
+分散表現を利用した特徴的相関ルールの抽出.
+ 人工知能学会 知識ベースシステム研究会（SIG-KBS）, 第B5巻, pp.
+  53--58, 2018.
+
+\bibitem{comment_niconico}
+智彦末長, 智一早川, 輝雄疋田.
+視聴者の時刻同期コメントを用いた動画の特徴シーンの推定.
+ データ工学と情報マネジメントに関するフォーラム（DEIM Forum
+  2018）論文集, 2018.
+
+\bibitem{socialmedia_niconico}
+Time-series analysis of video comments on social media, 2017.
+
+\bibitem{postgres_niconico}
+WG\#1PostgreSQLエンタープライズコンソーシアム技術部会.
+2017年度wg1活動報告.
+ PostgreSQLエンタープライズコンソーシアム技術部会, 2018.
+
+\bibitem{dwango_dataset}
+株式会社ドワンゴ.
+ニコニコ動画コメント等データ.
+国立情報学研究所情報学研究データリポジトリ(データセット), 2020.
+
+\end{thebibliography}
