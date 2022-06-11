@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{NMF}
+亀岡弘和.
+\newblock 非負値行列因子分解.
+\newblock 計測と制御, Vol.~51, No.~9, pp. 835--844, sep 2012.
+
+\bibitem{chollet2015keras}
+Fran\c{c}ois Chollet, et~al.
+\newblock Keras, 2015.
+
+\bibitem{book_dentsu}
+信田和宏.
+\newblock 電通鬼十則の記憶 電通事件批判の中で.
+\newblock C\&R研究所, 2018.
+
+\end{thebibliography}
